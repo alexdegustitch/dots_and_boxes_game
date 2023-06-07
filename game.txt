@@ -1,0 +1,145 @@
+6 6
+0B//prvi igrac povlaci liniju
+0A//drugi igrac povlaci liniju
+A2//prvi igrac povlaci liniju
+A2//prvi igrac povlaci liniju
+0C//drugi igrac povlaci liniju
+C2//prvi igrac povlaci liniju
+C2//prvi igrac povlaci liniju
+0D//drugi igrac povlaci liniju
+C4//prvi igrac povlaci liniju
+C4//prvi igrac povlaci liniju
+0E//drugi igrac povlaci liniju
+4D//prvi igrac povlaci liniju
+4D//prvi igrac povlaci liniju
+0F//drugi igrac povlaci liniju
+A5//prvi igrac povlaci liniju
+A5//prvi igrac povlaci liniju
+1A//drugi igrac povlaci liniju
+1A//drugi igrac povlaci liniju
+1B//prvi igrac povlaci liniju
+1B//prvi igrac povlaci liniju
+A1//drugi igrac povlaci liniju
+A1//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+A0//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+1D//drugi igrac povlaci liniju
+1D//drugi igrac povlaci liniju
+C1//prvi igrac povlaci liniju
+C1//prvi igrac povlaci liniju
+2A//drugi igrac povlaci liniju
+2A//drugi igrac povlaci liniju
+E1//prvi igrac povlaci liniju
+E1//prvi igrac povlaci liniju
+2C//drugi igrac povlaci liniju
+2C//drugi igrac povlaci liniju
+6C//prvi igrac povlaci liniju
+2D//drugi igrac povlaci liniju
+2D//drugi igrac povlaci liniju
+E3//prvi igrac povlaci liniju
+E3//prvi igrac povlaci liniju
+2E//drugi igrac povlaci liniju
+2E//drugi igrac povlaci liniju
+F4//prvi igrac povlaci liniju
+F4//prvi igrac povlaci liniju
+2F//drugi igrac povlaci liniju
+2F//drugi igrac povlaci liniju
+D2//prvi igrac povlaci liniju
+D2//prvi igrac povlaci liniju
+3F//drugi igrac povlaci liniju
+3F//drugi igrac povlaci liniju
+5F//prvi igrac povlaci liniju
+5F//prvi igrac povlaci liniju
+4A//drugi igrac povlaci liniju
+4A//drugi igrac povlaci liniju
+E0//prvi igrac povlaci liniju
+5A//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+5A//drugi igrac povlaci liniju
+4B//drugi igrac povlaci liniju
+4B//drugi igrac povlaci liniju
+2B//prvi igrac povlaci liniju
+2B//prvi igrac povlaci liniju
+3B//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+3B//drugi igrac povlaci liniju
+D1//drugi igrac povlaci liniju
+D1//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+4C//drugi igrac povlaci liniju
+4C//drugi igrac povlaci liniju
+F2//prvi igrac povlaci liniju
+F2//prvi igrac povlaci liniju
+4E//drugi igrac povlaci liniju
+4E//drugi igrac povlaci liniju
+6D//prvi igrac povlaci liniju
+4F//drugi igrac povlaci liniju
+4F//drugi igrac povlaci liniju
+6E//prvi igrac povlaci liniju
+6A//drugi igrac povlaci liniju
+A6//prvi igrac povlaci liniju
+1F//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+1F//drugi igrac povlaci liniju
+6B//drugi igrac povlaci liniju
+6F//prvi igrac povlaci liniju
+D4//drugi igrac povlaci liniju
+D4//drugi igrac povlaci liniju
+F0//prvi igrac povlaci liniju
+F1//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+F1//drugi igrac povlaci liniju
+5B//drugi igrac povlaci liniju
+5B//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+E2//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+E2//drugi igrac povlaci liniju
+5C//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+5C//drugi igrac povlaci liniju
+F3//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+F3//drugi igrac povlaci liniju
+5D//drugi igrac povlaci liniju
+5D//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+E4//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+E4//drugi igrac povlaci liniju
+F6//drugi igrac povlaci liniju
+B3//prvi igrac povlaci liniju
+B3//prvi igrac povlaci liniju
+E6//drugi igrac povlaci liniju
+E5//prvi igrac povlaci liniju
+E5//prvi igrac povlaci liniju, formira kvadrat i igra ponovo
+5E//prvi igrac povlaci liniju, formira kvadrat i igra ponovo
+5E//prvi igrac povlaci liniju
+F5//prvi igrac povlaci liniju, formira kvadrat i igra ponovo
+F5//prvi igrac povlaci liniju, formira kvadrat i igra ponovo
+3D//prvi igrac povlaci liniju
+3D//prvi igrac povlaci liniju
+B4//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+B4//drugi igrac povlaci liniju
+3C//drugi igrac povlaci liniju
+3C//drugi igrac povlaci liniju
+C3//prvi igrac povlaci liniju, formira kvadrat i igra ponovo
+C3//prvi igrac povlaci liniju, formira kvadrat i igra ponovo
+D3//prvi igrac povlaci liniju, formira kvadrat i igra ponovo
+D3//prvi igrac povlaci liniju, formira kvadrat i igra ponovo
+C0//prvi igrac povlaci liniju
+D0//drugi igrac povlaci liniju
+B1//prvi igrac povlaci liniju
+B1//prvi igrac povlaci liniju
+3A//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+3A//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+B0//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+B2//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+B2//drugi igrac povlaci liniju
+1C//drugi igrac povlaci liniju
+1C//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+A3//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+A3//drugi igrac povlaci liniju
+A4//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+A4//drugi igrac povlaci liniju
+1E//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+1E//drugi igrac povlaci liniju
+B6//drugi igrac povlaci liniju
+B5//prvi igrac povlaci liniju, formira kvadrat i igra ponovo
+B5//prvi igrac povlaci liniju, formira kvadrat i igra ponovo
+C5//prvi igrac povlaci liniju
+C5//prvi igrac povlaci liniju
+3E//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+3E//drugi igrac povlaci liniju
+D5//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+D5//drugi igrac povlaci liniju
+C6//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
+D6//drugi igrac povlaci liniju, formira kvadrat i igra ponovo
